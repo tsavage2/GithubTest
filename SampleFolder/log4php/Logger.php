@@ -17,7 +17,7 @@
  */
 
 /**
- * @ignore 
+ * @ignore test of commit
  */
 if (!defined('LOG4PHP_DIR')) define('LOG4PHP_DIR', dirname(__FILE__));
  
