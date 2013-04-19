@@ -4,6 +4,7 @@
  * 
  * I like the black interface.  It reminds me of vi.
  * I-001 Change
+ * One more change for I-001
  * 
  * <p>This framework is based on log4j (see {@link http://jakarta.apache.org/log4j log4j} for details).</p>
  * <p>Design, strategies and part of the methods documentation are developed by log4j team 
