@@ -2,6 +2,7 @@
 /**
  * log4php is a PHP port of the log4j java logging package.
  * 
+ * I-002 Change
  * I like the black interface.  It reminds me of vi.
  * 
  * <p>This framework is based on log4j (see {@link http://jakarta.apache.org/log4j log4j} for details).</p>
